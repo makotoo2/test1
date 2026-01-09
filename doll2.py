@@ -10,3 +10,4 @@ if __name__ == '__main__':
     hana = Doll("ハナ")
     hana.greet()
     print("さらば")
+    taka = Doll("タカシ")
