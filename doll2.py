@@ -9,3 +9,4 @@ if __name__ == '__main__':
     rica.greet()
     hana = Doll("ハナ")
     hana.greet()
+    print("さらば")
